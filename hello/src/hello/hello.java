@@ -9,7 +9,7 @@ public class hello {
 		System.out.println("hello motisa");
 		System.out.println("hello Anila");
 
-
+System.out.println("Get ");
 	}
 
 }
